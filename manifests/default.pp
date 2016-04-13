@@ -6,7 +6,7 @@ Exec {
 include bootstrap
 include tools
 include postgresql
-include apache
+#include apache
 include python
-include import_db
-include production
+#include import_db
+#include production
